@@ -8,12 +8,6 @@ A sophisticated, single-file administration utility designed for remote Windows 
 
 ---
 
-## 📢 Join the Community
-Have questions? Need help? Join our Discord server for updates and support:  
-👉 **[Join our Discord Server](https://discord.gg/AghBF8aFeX)**
-
----
-
 ## 🚀 Quick Start
 
 1. **Install Dependencies**:
