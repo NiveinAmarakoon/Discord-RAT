@@ -1,22 +1,15 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
-
-# idea
-out
-*.ipr
-*.iws
-*.iml
-.idea
-
-# gradle
-build
-.gradle
-
-# other
-eclipse
-run
+.env
+__pycache__/
+*.pyc
+path.txt
+output.txt
+screenshot.png
+recording.wav
+webcam.jpg
+wifi.txt
+out.txt
+rec.wav
+ss.png
+.gradle/
+build/
+bin/
